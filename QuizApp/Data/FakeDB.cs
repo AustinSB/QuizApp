@@ -1,4 +1,4 @@
-﻿namespace QuizesApp.Data;
+﻿namespace QuizApp.Data;
 
 public class FakeDB : IFakeDB
 {

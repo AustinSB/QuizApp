@@ -1,5 +1,5 @@
 ﻿
-namespace QuizesApp.Data
+namespace QuizApp.Data
 {
     public interface IFakeDB
     {

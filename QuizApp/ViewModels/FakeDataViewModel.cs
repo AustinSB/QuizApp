@@ -1,6 +1,6 @@
-﻿using QuizesApp.Data;
+﻿using QuizApp.Data;
 
-namespace QuizesApp.ViewModels
+namespace QuizApp.ViewModels
 {
     public class FakeDataViewModel
     {

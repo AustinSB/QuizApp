@@ -1,4 +1,4 @@
-using QuizesApp.Data;
+using QuizApp.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

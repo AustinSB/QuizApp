@@ -1,10 +1,10 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using QuizesApp.Data;
-using QuizesApp.Models;
-using QuizesApp.ViewModels;
+using QuizApp.Data;
+using QuizApp.Models;
+using QuizApp.ViewModels;
 
-namespace QuizesApp.Controllers
+namespace QuizApp.Controllers
 {
     public class HomeController : Controller
     {
